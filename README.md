@@ -23,7 +23,7 @@ In Microsoft Excel the Basic process of data wrangling was done. Specialy with t
 After Uploading the data in Microsoft Power Bi in power Query some changes are made..
 
 # Interactive Dashboards
-1. <a href ="-https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20mainpage.png">Main Page</a> 
+1. <a href ="-https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20mainpage.png"> Main Page</a> 
 2. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20patiant.png"> Patient Details</a>
 3. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospotal%20payment.png"> Payer Details</a>
 4. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20encounter%20page.png">Encounter Details</a> 
