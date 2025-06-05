@@ -1,5 +1,8 @@
 # Hospital-Dashboard
-A Hospital Analysis Dashboard Created in Microsoft Power BI
+An Interactive Hospital Analysis Dashboard Created in Microsoft Power BI
+
+# Project Objective
+The Hospital wants patients and Payer Company Details. So the hospital commitee can understand the criteria of patients and the Finance in details  
 
 # This Project is created to understnad  
 1. The details of the Patient 
@@ -8,8 +11,8 @@ A Hospital Analysis Dashboard Created in Microsoft Power BI
 
 # Data Set
 There are 6 CSV file including the Meta Data
-1. Data_Dictionary
-2. Encounterwws
+1. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/data_dictionary.csv">Data_Dictionary</a>
+2. Encounters
 3. Organizations
 4. Patients
 5. Payers
@@ -19,3 +22,8 @@ There are 6 CSV file including the Meta Data
 In Microsoft Excel the Basic process of data wrangling was done. Specialy with the date Columns and removing the duplicate and null values.
 After Uploading the data in Microsoft Power Bi in power Query some changes are made..
 
+# Interactive Dashboards
+1. <a href ="-https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20mainpage.png"></a> Main Page
+2. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20patiant.png"></a> Patient Details
+3. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospotal%20payment.png"></a> Payer Details
+4. <a href ="https://github.com/NikitaDhananjayGaikwad/Hospital-Dashboard/blob/main/hospital%20encounter%20page.png"></a> Encounter Details
