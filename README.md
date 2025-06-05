@@ -2,7 +2,7 @@
 A Hospital Analysis Dashboard Created in Microsoft Power BI
 
 # This Project is created to understnad  
-1. The details of the Patient /n
+1. The details of the Patient 
 2. The encounters takne place.
 3. The Companys Sponsering details.
 
@@ -16,6 +16,6 @@ There are 6 CSV file including the Meta Data
 6.Procedures
 
 # Data Wrangling
-## In Microsoft Excel the Basic process of data wrangling was done. Specialy with the date Columns and removing the duplicate and null values.
-## After Uploading the data in Microsoft Power Bi in power Query some changes are made..
+In Microsoft Excel the Basic process of data wrangling was done. Specialy with the date Columns and removing the duplicate and null values.
+After Uploading the data in Microsoft Power Bi in power Query some changes are made..
 
